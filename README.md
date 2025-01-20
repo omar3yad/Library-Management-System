@@ -6,7 +6,7 @@ This project is a simple console-based Library Management System that allows use
 ## Features
 - **Librarian Actions**:
   - Add books to the library.
-  - Remove books from the library.
+  - Remove books from the library. 
   - View all books in the library.
 
 - **User Actions**:
