@@ -23,11 +23,11 @@ This project is a simple console-based Library Management System that allows use
    ```bash
    git clone https://github.com/YourUsername/Library-Management-System.git
    cd Library-Management-System
-Open the solution in Visual Studio.
-Run the application.
-Project Structure
-Program.cs: Contains the entry point and main logic for user interaction.
-User.cs: Defines a base class for common user properties and methods.
-Librarian.cs: Implements librarian-specific actions like adding and removing books.
-Customer.cs: Implements customer-specific actions like borrowing and returning books.
-Library.cs: Manages the library's inventory of books.
+2. Open the solution in Visual Studio.
+3. Run the application.
+## Project Structure
+- Program.cs: Contains the entry point and main logic for user interaction.
+- User.cs: Defines a base class for common user properties and methods.
+- Librarian.cs: Implements librarian-specific actions like adding and removing books.
+- Customer.cs: Implements customer-specific actions like borrowing and returning books.
+- Library.cs: Manages the library's inventory of books.
