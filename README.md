@@ -1,5 +1,4 @@
 # Library-Management-System
-# Library Management System
 
 This project is a simple console-based Library Management System that allows users to manage books, borrow and return them. It includes functionality for librarians and regular users with distinct roles.
 
