@@ -17,13 +17,6 @@ This project is a simple console-based Library Management System that allows use
 - Language: C#
 - Framework: .NET Framework
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Library-Management-System.git
-   cd Library-Management-System
-2. Open the solution in Visual Studio.
-3. Run the application.
 ## Project Structure
 - Program.cs: Contains the entry point and main logic for user interaction.
 - User.cs: Defines a base class for common user properties and methods.
